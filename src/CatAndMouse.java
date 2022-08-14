@@ -1,6 +1,7 @@
 public class CatAndMouse {
     static String catAndMouseSolution(int x, int y, int z) {
         String res = "";
+        System.out.println("hi");
         try {
             if (z < x) {
                 x = x - z;
