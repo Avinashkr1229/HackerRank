@@ -7,6 +7,6 @@ public class DrawingBook {
     }
 
     public static void main(String[] args) {
-        pageCount(6, 2);
+        System.out.println(pageCount(6, 2));
     }
 }

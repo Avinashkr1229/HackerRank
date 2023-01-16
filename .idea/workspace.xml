@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DesignerPDFViewer">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="removed sysout">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CatAndMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CatAndMouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DrawingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawingBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CatAndMouse">
+  <component name="RunManager" selected="Application.DrawingBook">
     <configuration name="CatAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CatAndMouse" />
       <module name="HackerRank" />
@@ -81,10 +84,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CatAndMouse" />
-        <item itemvalue="Application.DesignerPDFViewer" />
-        <item itemvalue="Application.UtopianTree" />
         <item itemvalue="Application.DrawingBook" />
+        <item itemvalue="Application.DesignerPDFViewer" />
+        <item itemvalue="Application.CatAndMouse" />
+        <item itemvalue="Application.UtopianTree" />
       </list>
     </recent_temporary>
   </component>
@@ -125,8 +128,26 @@
       <option name="project" value="LOCAL" />
       <updated>1660491232665</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed sysout">
+      <created>1673859701308</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673859701308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -144,14 +165,15 @@
     <MESSAGE value="New Solution" />
     <MESSAGE value="Hurdle problem" />
     <MESSAGE value="DesignerPDFViewer" />
-    <option name="LAST_COMMIT_MESSAGE" value="DesignerPDFViewer" />
+    <MESSAGE value="removed sysout" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed sysout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/CatAndMouse.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties class="CatAndMouse" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

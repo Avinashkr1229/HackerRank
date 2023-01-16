@@ -1,5 +1,6 @@
 public class CatAndMouse {
     static String catAndMouseSolution(int x, int y, int z) {
+        System.out.println("Show demo for dhoni");
         String res = "";
         try {
             if (z < x) {
