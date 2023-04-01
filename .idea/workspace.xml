@@ -4,10 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="removed sysout">
+    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="BubbleSort.java Sort">
+      <change afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommonCharcter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConnectedCell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecodeXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeleteAndEarn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthOfWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LongestParenthisis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatchString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxCoinsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxSatisification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumSliding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinimumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PasswordCracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RangeOfSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShuffleString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingleNonDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortAddArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TopKElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ValidParenthisis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loveBabar/FindUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loveBabar/swapAlternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise/ArrayPush.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practise/Eqilibrium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smallerNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CatAndMouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CatAndMouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DrawingBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawingBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UtopianTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UtopianTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,30 +87,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DrawingBook">
-    <configuration name="CatAndMouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CatAndMouse" />
+  <component name="RunManager" selected="Application.MaximumSliding">
+    <configuration name="CheckArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckArithmetic" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignerPDFViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignerPDFViewer" />
+    <configuration name="CommonCharcter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommonCharcter" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DrawingBook" />
+    <configuration name="DeleteAndEarn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteAndEarn" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UtopianTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UtopianTree" />
+    <configuration name="MaximumSliding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaximumSliding" />
+      <module name="HackerRank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumSum" />
       <module name="HackerRank" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,10 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DrawingBook" />
-        <item itemvalue="Application.DesignerPDFViewer" />
-        <item itemvalue="Application.CatAndMouse" />
-        <item itemvalue="Application.UtopianTree" />
+        <item itemvalue="Application.MaximumSliding" />
+        <item itemvalue="Application.CheckArithmetic" />
+        <item itemvalue="Application.MinimumSum" />
+        <item itemvalue="Application.CommonCharcter" />
+        <item itemvalue="Application.DeleteAndEarn" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +177,70 @@
       <option name="project" value="LOCAL" />
       <updated>1673859701308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Modification On Code">
+      <created>1673870670111</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673870670111</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New Leetcode problem">
+      <created>1674449331094</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674449331094</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New Leetcode problem">
+      <created>1674563349357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674563349357</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New Leetcode problem">
+      <created>1674754432145</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674754432145</updated>
+    </task>
+    <task id="LOCAL-00010" summary="New Leetcode problem">
+      <created>1674923015397</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674923015397</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Climbing staircase problem">
+      <created>1675100692127</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675100692127</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Insertion sort">
+      <created>1675136846548</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675136846548</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Selection Sort">
+      <created>1675168859675</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675168859675</updated>
+    </task>
+    <task id="LOCAL-00014" summary="BubbleSort.java Sort">
+      <created>1675169403956</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675169403956</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -166,7 +271,13 @@
     <MESSAGE value="Hurdle problem" />
     <MESSAGE value="DesignerPDFViewer" />
     <MESSAGE value="removed sysout" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed sysout" />
+    <MESSAGE value="Modification On Code" />
+    <MESSAGE value="New Leetcode problem" />
+    <MESSAGE value="Climbing staircase problem" />
+    <MESSAGE value="Insertion sort" />
+    <MESSAGE value="Selection Sort" />
+    <MESSAGE value="BubbleSort.java Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="BubbleSort.java Sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,22 +291,208 @@
           </properties>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/practise/ArrayPush.java</url>
+          <line>23</line>
+          <properties class="practise.ArrayPush" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MaxPalindrome.java</url>
+          <line>25</line>
+          <properties class="MaxPalindrome" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UtopianTree.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxSubArraySum.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxSubArraySum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxSubArraySum.java</url>
           <line>5</line>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UtopianTree.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/SingleNumber.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/UtopianTree.java</url>
+          <url>file://$PROJECT_DIR$/src/SingleNumber.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MajorityElement.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Duplicate.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Intersection.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ClimbingStaris.java</url>
           <line>3</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/InsertionSort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SelectionSort.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ValidParenthisis.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoSum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TwoSum.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SingleNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LengthOfWord.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Anagram.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AddBinary.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practise/ArrayPush.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortAddArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxCoinsArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/smallerNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ShuffleString.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LongestParenthisis.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MatchString.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/loveBabar/FindUnique.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DecodeXOR.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MyCalendar.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TopKElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxSatisification.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RangeOfSort.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CommonCharcter.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MinimumSum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CheckArithmetic.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CheckArithmetic.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaximumSliding.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CatAndMouse_java$MaximumSliding.ic" NAME="MaximumSliding Coverage Results" MODIFIED="1676561547299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

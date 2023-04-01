@@ -13,7 +13,6 @@ public class SingleNumber {
             result =result^i;
         }
 
-        System.out.println("Result is "+result);
         return result;
 
     }

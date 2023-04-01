@@ -21,10 +21,10 @@ public class Intersection {
             }
             j++;
         }
-        System.out.println(map.entrySet().stream().mapToInt(s->s.getKey()).toArray());
+        map.entrySet().stream().forEach(s-> System.out.println(s.getKey()));
         return list.stream().mapToInt(k -> k).toArray();
     }
     public static void main(String[] args) {
-        intersection(new int[]{1},new int[]{1});
+        intersection(new int[]{1,2,2,1},new int[]{1,2});
     }
 }
