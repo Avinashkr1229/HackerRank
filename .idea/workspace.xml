@@ -4,44 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="BubbleSort.java Sort">
-      <change afterPath="$PROJECT_DIR$/src/AddBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CommonCharcter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConnectedCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecodeXOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DeleteAndEarn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LengthOfWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LongestParenthisis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatchString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxCoinsArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxSatisification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSliding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MergeInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MinimumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PasswordCracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RangeOfSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShuffleString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SingleNonDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortAddArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TopKElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ValidParenthisis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loveBabar/FindUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loveBabar/swapAlternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/ArrayPush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practise/Eqilibrium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/smallerNumbers.java" afterDir="false" />
+    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day5&#10;Re-arrange and sort">
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/FindOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/SumOfEvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Intersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UtopianTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UtopianTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,64 +42,126 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2DKvBQnhUar75DsSAQ7zdtMLNrt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CatAndMouse.executor": "Run",
+    "Application.DeliveryRouteOptimizer.executor": "Debug",
+    "Application.FindOne.executor": "Debug",
+    "Application.LargestThree.executor": "Run",
+    "Application.Leader.executor": "Run",
+    "Application.MainTest.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.ReEvenPosGrtOdd.executor": "Run",
+    "Application.Reaarange01.executor": "Run",
+    "Application.Rearrange.executor": "Debug",
+    "Application.SecondLarget.executor": "Run",
+    "Application.SegregateEvenOdd.executor": "Run",
+    "Application.Sort.executor": "Run",
+    "Application.SumOfEvenOdd.executor": "Run",
+    "Application.moveZeroRight.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/InterView",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "aws"
   }
-}</component>
-  <component name="RunManager" selected="Application.MaximumSliding">
-    <configuration name="CheckArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckArithmetic" />
+}]]></component>
+  <component name="RunManager" selected="Application.Leader">
+    <configuration name="FindOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.FindOne" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CommonCharcter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommonCharcter" />
+    <configuration name="Leader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Leader" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteAndEarn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteAndEarn" />
+    <configuration name="ReEvenPosGrtOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.ReEvenPosGrtOdd" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSliding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaximumSliding" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Sort" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumSum" />
+    <configuration name="SumOfEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.SumOfEvenOdd" />
       <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumSliding" />
-        <item itemvalue="Application.CheckArithmetic" />
-        <item itemvalue="Application.MinimumSum" />
-        <item itemvalue="Application.CommonCharcter" />
-        <item itemvalue="Application.DeleteAndEarn" />
+        <item itemvalue="Application.Leader" />
+        <item itemvalue="Application.SumOfEvenOdd" />
+        <item itemvalue="Application.ReEvenPosGrtOdd" />
+        <item itemvalue="Application.FindOne" />
+        <item itemvalue="Application.Sort" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -240,7 +270,70 @@
       <option name="project" value="LOCAL" />
       <updated>1675169403956</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Leet code problem">
+      <created>1680341806654</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680341806654</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Leet code problem">
+      <option name="closed" value="true" />
+      <created>1705735632202</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1705735632202</updated>
+    </task>
+    <task id="LOCAL-00017" summary="DSA Array problem: Day2">
+      <option name="closed" value="true" />
+      <created>1713888189222</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1713888189222</updated>
+    </task>
+    <task id="LOCAL-00018" summary="DSA Array problem: Day2&#10;Rearrange code : Zoho">
+      <option name="closed" value="true" />
+      <created>1713891552246</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713891552246</updated>
+    </task>
+    <task id="LOCAL-00019" summary="DSA Array problem: Day3 and 4&#10;SegregateEvenOdd">
+      <option name="closed" value="true" />
+      <created>1714058065733</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1714058065733</updated>
+    </task>
+    <task id="LOCAL-00020" summary="DSA Array problem: Day3 and 4&#10;SegregateEvenOdd using lomutos partition technique">
+      <option name="closed" value="true" />
+      <created>1714059107547</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1714059107547</updated>
+    </task>
+    <task id="LOCAL-00021" summary="DSA Array problem: Day3 and 4&#10;Rotate and array left by n number of position">
+      <option name="closed" value="true" />
+      <created>1714066578908</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714066578908</updated>
+    </task>
+    <task id="LOCAL-00022" summary="DSA Array problem: Day5&#10;Re-arrange and sort">
+      <option name="closed" value="true" />
+      <created>1714151626775</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1714151626775</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -277,7 +370,14 @@
     <MESSAGE value="Insertion sort" />
     <MESSAGE value="Selection Sort" />
     <MESSAGE value="BubbleSort.java Sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="BubbleSort.java Sort" />
+    <MESSAGE value="Leet code problem" />
+    <MESSAGE value="DSA Array problem: Day2" />
+    <MESSAGE value="DSA Array problem: Day2&#10;Rearrange code : Zoho" />
+    <MESSAGE value="DSA Array problem: Day3 and 4&#10;SegregateEvenOdd" />
+    <MESSAGE value="DSA Array problem: Day3 and 4&#10;SegregateEvenOdd using lomutos partition technique" />
+    <MESSAGE value="DSA Array problem: Day3 and 4&#10;Rotate and array left by n number of position" />
+    <MESSAGE value="DSA Array problem: Day5&#10;Re-arrange and sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day5&#10;Re-arrange and sort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -488,6 +588,31 @@
           <url>file://$PROJECT_DIR$/src/MaximumSliding.java</url>
           <line>8</line>
           <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practise/DeliveryRouteOptimizer.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/practise/DeliveryRouteOptimizer.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dsa/arrays/moveZeroRight.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dsa/arrays/SegregateEvenOdd.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dsa/arrays/FindOne.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
