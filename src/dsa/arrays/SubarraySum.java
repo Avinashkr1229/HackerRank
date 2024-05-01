@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class SubarraySum {
 
+
     public static ArrayList<Integer> subArraySum(int[] arr, int n, int s){
 
         int left=0;
