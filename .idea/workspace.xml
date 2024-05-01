@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day5&#10;Re-arrange and sort">
-      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/FindOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/SumOfEvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day6 and 7&#10;FindOne&#10;Leader&#10;SumOfEvenOdd">
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/SubarraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +63,7 @@
     "Application.SecondLarget.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.Sort.executor": "Run",
+    "Application.SubarraySum.executor": "Debug",
     "Application.SumOfEvenOdd.executor": "Run",
     "Application.moveZeroRight.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -79,7 +77,7 @@
     "settings.editor.selected.configurable": "aws"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Leader">
+  <component name="RunManager" selected="Application.SubarraySum">
     <configuration name="FindOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.arrays.FindOne" />
       <module name="HackerRank" />
@@ -119,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Sort" />
+    <configuration name="SubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.SubarraySum" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubarraySum" />
         <item itemvalue="Application.Leader" />
         <item itemvalue="Application.SumOfEvenOdd" />
         <item itemvalue="Application.ReEvenPosGrtOdd" />
         <item itemvalue="Application.FindOne" />
-        <item itemvalue="Application.Sort" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +331,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714151626775</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="DSA Array problem: Day6 and 7&#10;FindOne&#10;Leader&#10;SumOfEvenOdd">
+      <option name="closed" value="true" />
+      <created>1714489723497</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1714489723497</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -377,7 +383,8 @@
     <MESSAGE value="DSA Array problem: Day3 and 4&#10;SegregateEvenOdd using lomutos partition technique" />
     <MESSAGE value="DSA Array problem: Day3 and 4&#10;Rotate and array left by n number of position" />
     <MESSAGE value="DSA Array problem: Day5&#10;Re-arrange and sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day5&#10;Re-arrange and sort" />
+    <MESSAGE value="DSA Array problem: Day6 and 7&#10;FindOne&#10;Leader&#10;SumOfEvenOdd" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day6 and 7&#10;FindOne&#10;Leader&#10;SumOfEvenOdd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,6 +620,11 @@
           <url>file://$PROJECT_DIR$/src/dsa/arrays/FindOne.java</url>
           <line>19</line>
           <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dsa/arrays/SubarraySum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
