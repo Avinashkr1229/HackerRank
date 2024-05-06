@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day8&#10;SubarraySum">
+    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day8&#10;Reaarange2">
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/Reaarango1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/TestSinglyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,27 +62,30 @@
     "Application.Palindrome.executor": "Run",
     "Application.ReEvenPosGrtOdd.executor": "Run",
     "Application.Reaarange01.executor": "Run",
+    "Application.Reaarango1.executor": "Run",
     "Application.Rearrange.executor": "Run",
     "Application.SecondLarget.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.Sort.executor": "Run",
     "Application.SubarraySum.executor": "Run",
     "Application.SumOfEvenOdd.executor": "Run",
+    "Application.TestSinglyLinkedList.executor": "Run",
     "Application.moveZeroRight.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/InterView",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "aws"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reaarange01">
-    <configuration name="Leader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Leader" />
+  <component name="RunManager" selected="Application.Reaarango1">
+    <configuration name="Reaarange01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Reaarange01" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reaarange01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Reaarange01" />
+    <configuration name="Reaarango1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Reaarango1" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.arrays.SumOfEvenOdd" />
+    <configuration name="TestSinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.TestSinglyLinkedList" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reaarango1" />
+        <item itemvalue="Application.TestSinglyLinkedList" />
         <item itemvalue="Application.Reaarange01" />
         <item itemvalue="Application.Rearrange" />
         <item itemvalue="Application.SubarraySum" />
-        <item itemvalue="Application.Leader" />
-        <item itemvalue="Application.SumOfEvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +164,8 @@
       <set>
         <option value="jdk-11.0.21-corretto-11.0.21-f644763e9732-97de7592" />
         <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-51586f01" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>
@@ -354,7 +363,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714583347728</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="DSA Array problem: Day8&#10;Reaarange2">
+      <option name="closed" value="true" />
+      <created>1714585999409</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1714585999409</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -401,7 +418,8 @@
     <MESSAGE value="DSA Array problem: Day6 and 7&#10;FindOne&#10;Leader&#10;SumOfEvenOdd" />
     <MESSAGE value="DSA Array problem: Day8&#10;FindOne&#10;Leader&#10;SumOfEvenOdd" />
     <MESSAGE value="DSA Array problem: Day8&#10;SubarraySum" />
-    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day8&#10;SubarraySum" />
+    <MESSAGE value="DSA Array problem: Day8&#10;Reaarange2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day8&#10;Reaarange2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -637,6 +655,11 @@
           <url>file://$PROJECT_DIR$/src/dsa/arrays/FindOne.java</url>
           <line>19</line>
           <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/dsa/arrays/Reaarango1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="97" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
