@@ -25,5 +25,8 @@ public class Sort {
     public static void main(String[] args) {
         int[] arr = {10, 7, 9, 2, 8, 3, 5, 4, 6, 1};
         sortMethod(arr, arr.length);
+        for(int k : arr){
+            System.out.println(k);
+        }
     }
 }

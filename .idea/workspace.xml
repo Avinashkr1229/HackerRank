@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day8&#10;Reaarange2">
-      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/Reaarango1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/SinglyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/TestSinglyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a38e0f0c-ed51-4789-a68b-ba1d235909f4" name="Changes" comment="DSA Array problem: Day9&#10;Reaarange2">
+      <change afterPath="$PROJECT_DIR$/src/dsa/arrays/Reorder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dsa/arrays/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsa/arrays/Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
     "Application.Reaarange01.executor": "Run",
     "Application.Reaarango1.executor": "Run",
     "Application.Rearrange.executor": "Run",
+    "Application.Reorder.executor": "Run",
     "Application.SecondLarget.executor": "Run",
     "Application.SegregateEvenOdd.executor": "Run",
     "Application.Sort.executor": "Run",
@@ -83,7 +82,7 @@
     "settings.editor.selected.configurable": "aws"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reaarango1">
+  <component name="RunManager" selected="Application.Reorder">
     <configuration name="Reaarange01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa.arrays.Reaarange01" />
       <module name="HackerRank" />
@@ -110,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rearrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Rearrange" />
+    <configuration name="Reorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Reorder" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +122,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa.arrays.SubarraySum" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.arrays.Sort" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Reorder" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.Reaarange01" />
         <item itemvalue="Application.Reaarango1" />
         <item itemvalue="Application.TestSinglyLinkedList" />
-        <item itemvalue="Application.Reaarange01" />
-        <item itemvalue="Application.Rearrange" />
-        <item itemvalue="Application.SubarraySum" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714585999409</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="DSA Array problem: Day9&#10;Reaarange2">
+      <option name="closed" value="true" />
+      <created>1715015473527</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1715015473527</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -419,7 +426,8 @@
     <MESSAGE value="DSA Array problem: Day8&#10;FindOne&#10;Leader&#10;SumOfEvenOdd" />
     <MESSAGE value="DSA Array problem: Day8&#10;SubarraySum" />
     <MESSAGE value="DSA Array problem: Day8&#10;Reaarange2" />
-    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day8&#10;Reaarange2" />
+    <MESSAGE value="DSA Array problem: Day9&#10;Reaarange2" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Array problem: Day9&#10;Reaarange2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
