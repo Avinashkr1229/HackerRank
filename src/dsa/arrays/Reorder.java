@@ -28,6 +28,8 @@ public class Reorder {
 
     }
 
+    /*using the mathematics Approach*/
+
     static void swap(int[] index, int left, int right) {
         int temp = index[left];
         index[left] = index[right];
