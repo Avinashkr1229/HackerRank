@@ -26,6 +26,10 @@ public class Reorder {
                 k++;
         }
 
+        for(int v : index){
+            System.out.println(v);
+        }
+
     }
 
     /*using the mathematics Approach*/
